@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n5zDKma+8B8=",
+  "dgSpecHash": "mGSv4MD5BqU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\exeee\\source\\repos\\App_Registro\\App_Registro.csproj",
+  "projectFilePath": "C:\\Users\\exeee\\source\\repos\\App_Registro-Patrones-DAO_DTO_Singleton-\\App_Registro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\exeee\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\exeee\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

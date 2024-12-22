@@ -1693,11 +1693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\exeee\\source\\repos\\App_Registro\\App_Registro.csproj",
+      "projectUniqueName": "C:\\Users\\exeee\\source\\repos\\App_Registro-Patrones-DAO_DTO_Singleton-\\App_Registro.csproj",
       "projectName": "App_Registro",
-      "projectPath": "C:\\Users\\exeee\\source\\repos\\App_Registro\\App_Registro.csproj",
+      "projectPath": "C:\\Users\\exeee\\source\\repos\\App_Registro-Patrones-DAO_DTO_Singleton-\\App_Registro.csproj",
       "packagesPath": "C:\\Users\\exeee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\exeee\\source\\repos\\App_Registro\\obj\\",
+      "outputPath": "C:\\Users\\exeee\\source\\repos\\App_Registro-Patrones-DAO_DTO_Singleton-\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
